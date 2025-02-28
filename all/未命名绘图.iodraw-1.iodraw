@@ -7,11 +7,11 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-67" value="获取Fse特征(ContextPtr context, std::vector&amp;amp;&amp;amp; pks)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="450" width="235" height="101" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-68" target="leVVxGvRWJAGzOannjnl-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-68" value="初始化结果和主键大小" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="601" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-70" value="返回结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="39" y="1762" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-75" value="确定批处理大小" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="216" y="1762" width="172" height="49" as="geometry" />
@@ -79,12 +79,6 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-67" target="leVVxGvRWJAGzOannjnl-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="200.5" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-75" target="leVVxGvRWJAGzOannjnl-76">
