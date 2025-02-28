@@ -87,14 +87,6 @@
             <mxPoint x="200.5" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-106" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;" edge="1" parent="1" target="leVVxGvRWJAGzOannjnl-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="183" y="1725" />
-            </Array>
-            <mxPoint x="233.625" y="1640.625" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-75" target="leVVxGvRWJAGzOannjnl-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
