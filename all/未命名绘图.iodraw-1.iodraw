@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="leVVxGvRWJAGzOannjnl-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-182" target="leVVxGvRWJAGzOannjnl-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-182" value="获得request&lt;span style=&quot;background-color: initial;&quot;&gt;主键&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-183" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
