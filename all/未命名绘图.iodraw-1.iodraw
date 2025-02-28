@@ -25,10 +25,10 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-164" target="leVVxGvRWJAGzOannjnl-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-164" value="cache&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;gt;Mget&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="leVVxGvRWJAGzOannjnl-164" value="缓存查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-174" value="fse_table-&amp;gt;Mget" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="leVVxGvRWJAGzOannjnl-174" value="fse查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
