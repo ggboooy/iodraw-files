@@ -16,6 +16,9 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-185" value="某个dag图的root节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-186" target="leVVxGvRWJAGzOannjnl-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-186" value="table1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-194" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="414" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
