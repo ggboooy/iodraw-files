@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="leVVxGvRWJAGzOannjnl-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-185" target="leVVxGvRWJAGzOannjnl-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-185" value="某个dag图的root节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-186" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-187" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
