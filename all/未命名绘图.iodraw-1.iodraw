@@ -22,8 +22,14 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-164" value="缓存查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-174" target="leVVxGvRWJAGzOannjnl-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-174" value="fse查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-178" value="fse查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
