@@ -80,7 +80,7 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-219" value="table2_post_executor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-220" value="table1_storage_executor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="leVVxGvRWJAGzOannjnl-220" value="tablen_post_executor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
