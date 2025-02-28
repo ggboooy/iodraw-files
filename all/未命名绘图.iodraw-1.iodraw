@@ -74,7 +74,7 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-206" value="缓存异步更新" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="370" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-218" value="table1_storage_executor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="leVVxGvRWJAGzOannjnl-218" value="table1_post_executor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-219" value="table1_storage_executor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
