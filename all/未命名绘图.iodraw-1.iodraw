@@ -70,6 +70,9 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-88" value="检查缺失的主键大小" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="178" y="2830" width="204" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-90" target="leVVxGvRWJAGzOannjnl-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-90" value="计算缺失主键的分片和批处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="41" y="3208" width="252" height="66" as="geometry" />
         </mxCell>
@@ -219,12 +222,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="280.5" y="2929" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-90">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="167" y="3324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-93" target="leVVxGvRWJAGzOannjnl-94">
