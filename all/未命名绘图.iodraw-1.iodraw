@@ -87,29 +87,12 @@
             <mxPoint x="200.5" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-101" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.45;entryY=-0.01;rounded=0;" edge="1" parent="1" target="leVVxGvRWJAGzOannjnl-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="86" y="879" />
-              <mxPoint x="86" y="1725" />
-            </Array>
-            <mxPoint x="163.64432989690727" y="806.1443298969073" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-106" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;" edge="1" parent="1" target="leVVxGvRWJAGzOannjnl-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="183" y="1725" />
             </Array>
             <mxPoint x="233.625" y="1640.625" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-107" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="leVVxGvRWJAGzOannjnl-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="302" y="1725" />
-            </Array>
-            <mxPoint x="295.82142857142867" y="1675.1785714285716" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-75" target="leVVxGvRWJAGzOannjnl-76">
