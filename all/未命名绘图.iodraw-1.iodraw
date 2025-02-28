@@ -19,18 +19,6 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-76" value="不启用缓存或禁用缓存?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="195" y="1860" width="214" height="214" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-77" value="计算批处理大小" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338" y="2147" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-78" value="创建流标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="2245" width="140" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-79" value="准备请求选项" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="346" y="2344" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-80" value="调用fse_table-&gt;MGet()" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="301" y="2442" width="245" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-81" value="调整结果大小" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="103" y="2147" width="156" height="49" as="geometry" />
         </mxCell>
@@ -86,26 +74,19 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-109" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-76" target="leVVxGvRWJAGzOannjnl-77">
+        <mxCell id="leVVxGvRWJAGzOannjnl-109" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="424" y="2111" />
             </Array>
+            <mxPoint x="424" y="2147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-77" target="leVVxGvRWJAGzOannjnl-78">
+        <mxCell id="leVVxGvRWJAGzOannjnl-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-78" target="leVVxGvRWJAGzOannjnl-79">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-112" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-79" target="leVVxGvRWJAGzOannjnl-80">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="424" y="2393" as="sourcePoint" />
+            <mxPoint x="423.5" y="2442" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-113" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-76" target="leVVxGvRWJAGzOannjnl-81">
@@ -175,9 +156,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-80" target="leVVxGvRWJAGzOannjnl-98">
+        <mxCell id="leVVxGvRWJAGzOannjnl-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="leVVxGvRWJAGzOannjnl-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="423.5" y="2491" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
