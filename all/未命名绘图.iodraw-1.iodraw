@@ -80,11 +80,14 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-219" value="Table2PostExecutor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-220" target="leVVxGvRWJAGzOannjnl-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-220" value="TableNPostExecutor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-226" value="缓存同步查询" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="380" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="leVVxGvRWJAGzOannjnl-226" value="构建arrow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
