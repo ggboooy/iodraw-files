@@ -45,13 +45,16 @@
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-48" value="异步bthread" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DM07_eTNh1rsuGBgbfKJ-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-56" target="DM07_eTNh1rsuGBgbfKJ-40">
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-56" target="DM07_eTNh1rsuGBgbfKJ-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DM07_eTNh1rsuGBgbfKJ-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-56" target="DM07_eTNh1rsuGBgbfKJ-41">
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-56" target="DM07_eTNh1rsuGBgbfKJ-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DM07_eTNh1rsuGBgbfKJ-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-56" target="DM07_eTNh1rsuGBgbfKJ-42">
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-56" target="DM07_eTNh1rsuGBgbfKJ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-56" target="DM07_eTNh1rsuGBgbfKJ-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-56" value="请求分片，负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
