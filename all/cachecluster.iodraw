@@ -7,6 +7,11 @@
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-1" target="DM07_eTNh1rsuGBgbfKJ-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-80" value="同步获取缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DM07_eTNh1rsuGBgbfKJ-79">
+          <mxGeometry x="-0.4621" y="-4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-1" value="cluster cache" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="432.5" width="300" height="105" as="geometry" />
         </mxCell>
@@ -50,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-56" value="请求分片，负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-63" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
           <mxGeometry x="190" y="770" width="20" height="20" as="geometry" />
