@@ -40,6 +40,9 @@
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-48" target="DM07_eTNh1rsuGBgbfKJ-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-48" target="DM07_eTNh1rsuGBgbfKJ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-48" value="异步bthread" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="592.5" width="120" height="60" as="geometry" />
         </mxCell>
