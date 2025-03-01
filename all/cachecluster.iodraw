@@ -60,6 +60,9 @@
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-56" value="请求分片，负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-63" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.locked;" vertex="1" parent="1">
+          <mxGeometry x="340" y="700" width="24" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
