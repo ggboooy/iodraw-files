@@ -75,6 +75,11 @@
         <mxCell id="DM07_eTNh1rsuGBgbfKJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.925;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DM07_eTNh1rsuGBgbfKJ-1" target="DM07_eTNh1rsuGBgbfKJ-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DM07_eTNh1rsuGBgbfKJ-77" value="异步更新缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DM07_eTNh1rsuGBgbfKJ-76">
+          <mxGeometry x="0.2214" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
