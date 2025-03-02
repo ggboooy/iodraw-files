@@ -116,6 +116,9 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-244" value="fp线程池分发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1040" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-263" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-248" target="leVVxGvRWJAGzOannjnl-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-248" value="item1~Item100" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1241" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -150,7 +153,7 @@
           <mxGeometry x="1410" y="600" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-262" value="fp线程池分发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
