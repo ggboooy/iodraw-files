@@ -131,6 +131,12 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-254" value="shared&lt;div&gt;node&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1200" y="510" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-259" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-256" target="leVVxGvRWJAGzOannjnl-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-260" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-256" target="leVVxGvRWJAGzOannjnl-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-256" value="&lt;div&gt;reader&lt;/div&gt;&lt;div&gt;node&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1340" y="510" width="60" height="60" as="geometry" />
         </mxCell>
