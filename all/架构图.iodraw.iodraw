@@ -161,7 +161,7 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-267" value="FillEgo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1470" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-271" value="Table1StoExecutor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="leVVxGvRWJAGzOannjnl-271" value="predict" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-280" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
