@@ -178,7 +178,7 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-286" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-277" target="leVVxGvRWJAGzOannjnl-284">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-277" value="mini-ranker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="leVVxGvRWJAGzOannjnl-277" value="mini-ranker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-340" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="leVVxGvRWJAGzOannjnl-280" value="提供dump_feature&lt;div&gt;rpc接口&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -195,7 +195,7 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-287" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-284" target="leVVxGvRWJAGzOannjnl-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="leVVxGvRWJAGzOannjnl-284" value="predict" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="leVVxGvRWJAGzOannjnl-284" value="predict" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
