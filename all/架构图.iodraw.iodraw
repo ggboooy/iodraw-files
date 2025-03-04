@@ -164,6 +164,9 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-272" value="kafka" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-40" y="550" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-274" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-188" target="leVVxGvRWJAGzOannjnl-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
