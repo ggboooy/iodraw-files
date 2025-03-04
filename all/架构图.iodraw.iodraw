@@ -184,6 +184,11 @@
         <mxCell id="leVVxGvRWJAGzOannjnl-282" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="leVVxGvRWJAGzOannjnl-280" target="leVVxGvRWJAGzOannjnl-272">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="leVVxGvRWJAGzOannjnl-283" value="其他业务团队自行dump" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="leVVxGvRWJAGzOannjnl-282">
+          <mxGeometry x="-0.4015" y="-3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
